@@ -1,0 +1,11 @@
+{
+  "name": "Melis'in İngilizce Kelime Kartları",
+  "short_name": "Kelime Kartları",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f5ff",
+  "theme_color": "#5b5bd6",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
